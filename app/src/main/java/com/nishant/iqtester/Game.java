@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package com.nishant.iqtester;
 
 import android.app.Activity;
@@ -265,3 +268,6 @@ public class Game extends Activity
         }
     }
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
