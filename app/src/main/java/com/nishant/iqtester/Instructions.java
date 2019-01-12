@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package com.nishant.iqtester;
 
 import android.app.Activity;
@@ -46,3 +49,6 @@ public class Instructions extends Activity
         onBackPressed();
     }
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
