@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg"
+    tools:context=".Game">
+
+    <Button
+        android:id="@+id/a00"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="80dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a10"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="160dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a11"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="190dp"
+        android:layout_marginTop="160dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a20"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="240dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a21"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="240dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a22"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="230dp"
+        android:layout_marginTop="240dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a30"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="320dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a31"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="320dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a32"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="190dp"
+        android:layout_marginTop="320dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a33"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="270dp"
+        android:layout_marginTop="320dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a40"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a41"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a42"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a43"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/a44"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="300dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="casual"
+        android:onClick="change"
+        android:text="@string/x" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="500dp"
+        android:background="@drawable/btn_border"
+        android:fontFamily="casual"
+        android:onClick="reset"
+        android:text="Reset"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/iQuit"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="50dp"
+        android:layout_marginTop="500dp"
+        android:background="@drawable/btn_border"
+        android:fontFamily="casual"
+        android:onClick="iQuit"
+        android:text="I quit!!"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/moreToGo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="15 remaining on board"
+        android:textColor="@color/white"
+        android:fontFamily="casual"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
