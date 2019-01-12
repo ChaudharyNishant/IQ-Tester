@@ -10,6 +10,9 @@ Like checkers, the point of the game is to jump pegs and remove them from the ga
 - Every peg you jump must be removed.
 - You win when there is only one peg left.
 
-For further explanation of the rules or Demo, click here.
+For further explanation of the rules or Demo, click [here](https://drive.google.com/open?id=1QcRtzjpXXP3XTvu7fXfa4oxDIsxwX4eV)*.
 
-Check out how the app/game runs here.
+Check out how the app/game runs [here](https://drive.google.com/open?id=15cwaaImFL-TUZbtrPXCCef3tFwlWUZAm).
+
+
+<br><br>*Credits goes to the respective creator
