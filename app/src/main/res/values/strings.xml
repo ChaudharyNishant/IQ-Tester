@@ -1,3 +1,6 @@
+<!--Created by Nishant Chaudhary
+    https://github.com/ChaudharyNishant-->
+
 <resources>
     <string name="app_name">IQ Tester</string>
     <string name="x">X</string>
@@ -5,3 +8,6 @@
     First, 1 X of the 15 Xs is removed and then the way to play is to jump another X into an empty space adjacent to the X that is being jumped over.
         After the jump is completed, the X that is jumped over is removed from the triangle.</string>
 </resources>
+
+<!--Created by Nishant Chaudhary
+    https://github.com/ChaudharyNishant-->
