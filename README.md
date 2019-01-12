@@ -22,4 +22,4 @@ Just in case, you are not able to get the solution and have tried your brains ou
 <br>Created by Nishant Chaudhary
 <br>https://github.com/ChaudharyNishant</i><h6>
 
-*Credits goes to the respective creator - Chris Ramsay
+*Credits goes to the respective creator
