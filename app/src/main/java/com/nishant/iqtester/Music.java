@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package com.nishant.iqtester;
 
 import android.media.MediaPlayer;
@@ -13,3 +16,6 @@ public class Music
         this.btnPressed = btnPressed;
     }
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
