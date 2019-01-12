@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package com.nishant.iqtester;
 
 import android.app.Activity;
@@ -68,3 +71,6 @@ public class HomeScreen extends Activity
         startActivity(i);
     }
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
