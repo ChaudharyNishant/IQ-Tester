@@ -12,7 +12,7 @@ Like checkers, the point of the game is to jump pegs and remove them from the ga
 
 <br>For further explanation of the rules or Demo, click [here](https://drive.google.com/open?id=1QcRtzjpXXP3XTvu7fXfa4oxDIsxwX4eV)*.
 
-Check out how the app/game runs [here](https://drive.google.com/open?id=15cwaaImFL-TUZbtrPXCCef3tFwlWUZAm).
+Check out how the app/game runs [here](https://youtu.be/Udd1IuyZHrI).
 
 IQ Tester - The 15 Pegs apk can be found [here](https://github.com/ChaudharyNishant/IQ-Tester/blob/master/app/release/IQ%20Tester%20-%20The%2015%20Pegs.apk).
 
