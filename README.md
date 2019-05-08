@@ -10,11 +10,11 @@ Like checkers, the point of the game is to jump pegs and remove them from the ga
 <li>Every peg you jump must be removed.
 <li>You win when there is only one peg left.</ul>
 
-<br>For further explanation of the rules or Demo, click [here](https://drive.google.com/open?id=1QcRtzjpXXP3XTvu7fXfa4oxDIsxwX4eV)*.
+<br>For further explanation of the rules or Demo, click <a href="https://drive.google.com/open?id=1QcRtzjpXXP3XTvu7fXfa4oxDIsxwX4eV">here</a>*.
 
-Check out how the app/game runs [here](https://youtu.be/Udd1IuyZHrI).
+Check out how the app/game runs <a href="https://youtu.be/Udd1IuyZHrI">here</a>.
 
-IQ Tester - The 15 Pegs apk can be found [here](https://github.com/ChaudharyNishant/IQ-Tester/blob/master/app/release/IQ%20Tester%20-%20The%2015%20Pegs.apk).
+Latest IQ Tester - The 15 Pegs apk can be found <a href="https://github.com/ChaudharyNishant/IQ-Tester/releases">here</a>.
 
 Just in case, you are not able to get the solution and have tried your brains out, you can drop me a mail by clicking <a href="mailto:chaudhary.nishant98@gmail.com?Subject=Help!%20I%20need%20solution%20for%20IQ%20Tester" target="_top">here</a> or at chaudhary.nishant98@gmail.com and I will get back to you with the solution.
 
