@@ -3,7 +3,7 @@ An android game to test your IQ
 <br><br>The game brings the smartness, logic and patience at one place and helps you be a little brainy-brainy-boi. Challenge your family, friends and colleagues and see who's the smartest person in the room.
 
 <br><h2>Rules</h2>
-<br>Like checkers, the point of the game is to jump pegs and remove them from the game. The rules are simple:
+Like checkers, the point of the game is to jump pegs and remove them from the game. The rules are simple:
 <ul>
   <li>To jump a peg, it must have an empty space next to it.</li>
   <li>You can use any peg as a jumper, as long as the peg you jump is directly adjacent to it and has an open space next to it.</li>
