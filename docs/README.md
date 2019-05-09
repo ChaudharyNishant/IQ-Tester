@@ -9,7 +9,7 @@ Like checkers, the point of the game is to jump pegs and remove them from the ga
   <li>You win when there is only one peg left.</li>
 </ul>
 <br>For further explanation of the rules or Demo, click <a href="https://drive.google.com/open?id=1QcRtzjpXXP3XTvu7fXfa4oxDIsxwX4eV">here</a>*.
-<br><br>Check out how the app/game runs <a href="https://youtu.be/Udd1IuyZHrI">here</a>.
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Udd1IuyZHrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>Latest IQ Tester - The 15 Pegs apk can be found <a href="https://github.com/ChaudharyNishant/IQ-Tester/releases">here</a>.
 <br><br>Just in case, you are not able to get the solution and have tried your brains out, you can drop me a mail by clicking <a href="mailto:chaudhary.nishant98@gmail.com?Subject=Help!%20I%20need%20solution%20for%20IQ%20Tester" target="_top">here</a> or at chaudhary.nishant98@gmail.com and I will get back to you with the solution.
 <br><br><h6><i>Thanks in advance for any kind of contribution. All the code in this repository is free and open to copy and/or change UNTIL AND UNLESS proper credits are given. The first 2 lines of the major files are restricted to be changed in respect for credits and should remain intact if the file is used. If any part of any file is used then credits should be properly given in the respective file which should include the following information:
