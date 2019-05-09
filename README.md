@@ -1,3 +1,8 @@
+<html>
+<head>
+<title>
+</title>
+<body>
 # IQ-Tester
 An android game to test your IQ
 <br><br>The game brings the smartness, logic and patience at one place and helps you be a little brainy-brainy-boi. Challenge your family, friends and colleagues and see who's the smartest person in the room.
@@ -23,3 +28,5 @@ An android game to test your IQ
 <br>https://github.com/ChaudharyNishant</i><h6>
 
 *Credits goes to the respective creator
+</body>
+</html>
