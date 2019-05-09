@@ -9,7 +9,7 @@ Like checkers, the point of the game is to jump pegs and remove them from the ga
   <li>You win when there is only one peg left.</li>
 </ul>
 
-<br><br>For further explanation of the rules or Demo, click <a href="https://drive.google.com/open?id=1QcRtzjpXXP3XTvu7fXfa4oxDIsxwX4eV">here</a>*.
+<br>For further explanation of the rules or Demo, click <a href="https://drive.google.com/open?id=1QcRtzjpXXP3XTvu7fXfa4oxDIsxwX4eV">here</a>*.
 
 <br><br>Check out how the app/game runs <a href="https://youtu.be/Udd1IuyZHrI">here</a>.
 
@@ -21,5 +21,5 @@ Like checkers, the point of the game is to jump pegs and remove them from the ga
 <br>Created by Nishant Chaudhary
 <br>https://github.com/ChaudharyNishant</i></h6>
 
-*Credits goes to the respective creator
+<br>*Credits goes to the respective creator
 </body>
