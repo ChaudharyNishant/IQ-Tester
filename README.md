@@ -3,7 +3,6 @@ An android game to test your IQ
 <br><br>The game brings the smartness, logic and patience at one place and helps you be a little brainy-brainy-boi. Challenge your family, friends and colleagues and see who's the smartest person in the room.
 
 <br><h2>Rules</h2>
-
 <br>Like checkers, the point of the game is to jump pegs and remove them from the game. The rules are simple:
 <ul>
   <li>To jump a peg, it must have an empty space next to it.</li>
@@ -18,6 +17,6 @@ An android game to test your IQ
 <br><br>Just in case, you are not able to get the solution and have tried your brains out, you can drop me a mail by clicking <a href="mailto:chaudhary.nishant98@gmail.com?Subject=Help!%20I%20need%20solution%20for%20IQ%20Tester" target="_top">here</a> or at chaudhary.nishant98@gmail.com and I will get back to you with the solution.
 <h6><i><br><br>Thanks in advance for any kind of contribution. All the code in this repository is free and open to copy and/or change UNTIL AND UNLESS proper credits are given. The first 2 lines of the major files are restricted to be changed in respect for credits and should remain intact if the file is used. If any part of any file is used then credits should be properly given in the respective file which should include the following information:
 <br>Created by Nishant Chaudhary
-<br>https://github.com/ChaudharyNishant</i><h6>
+<br>https://github.com/ChaudharyNishant</i></h6>
 
 *Credits goes to the respective creator
